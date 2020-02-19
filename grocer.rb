@@ -19,7 +19,8 @@ def consolidate_cart(cart)
        new_cart_item += 1 
     else
     new_cart_item {
-     :item =>  
+     :item => cart[counter][:item]
+     :pric
     }
     end
     counter += 1
