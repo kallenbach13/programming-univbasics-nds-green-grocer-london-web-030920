@@ -21,7 +21,7 @@ def consolidate_cart(cart)
     new_cart_item {
      :item => cart[counter][:item]
      :price => cart[counter][:price]
-     :c
+     :clearance =>
     }
     end
     counter += 1
