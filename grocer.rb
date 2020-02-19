@@ -18,6 +18,7 @@ def consolidate_cart(cart)
     if new_cart_item
        new_cart_item += 1 
     else
+      new_cart_item
     end
     counter += 1
   end
