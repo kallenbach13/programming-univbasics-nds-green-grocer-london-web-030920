@@ -17,7 +17,7 @@ def consolidate_cart(cart)
     new_cart = find_item_by_name_in_collection
     if 
     end
-    counter += 1com/r/DCcomics/comments/f5105z/comic_excerpt_hal_doesnt_fk_around_in_hal_jordan/
+    counter += 1
   end
 end
 
